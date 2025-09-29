@@ -1,2 +1,2 @@
-# Basic-Chatbot
+# BasicAIAgent
 Chat agent using python
